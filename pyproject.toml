@@ -1,0 +1,13 @@
+[project]
+name = "nipper"
+version = "0.1.0"
+description = "A persistent, tool-using, multi-agent AI assistant that runs in your terminal"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic",
+    "openai",
+    "schedule",
+]
+
+[project.scripts]
+nipper = "nipper:main"

@@ -2,7 +2,7 @@
 
 A minimal OpenClaw clone built from first principles. A persistent, tool-using, multi-agent AI assistant/autonomous task executor that runs in your terminal.
 
-See [purpose.md](purpose.md) for a deep dive into the architecture and what each component teaches from a web engineering perspective.
+See [purpose.md](purpose.md) for a deep dive into the architecture and what each component teaches from an engineering perspective.
 
 ## Features
 

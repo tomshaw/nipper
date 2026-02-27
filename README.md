@@ -370,10 +370,6 @@ sqlite3 ~/.nipper/nipper.db "DELETE FROM approvals;"
 rm -rf ~/.nipper/
 ```
 
-## Credits
-
-- Powered by [Anthropic's Claude](https://www.anthropic.com/) via the [anthropic](https://pypi.org/project/anthropic/) Python SDK
-
 ## License
 
 MIT
